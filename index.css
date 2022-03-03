@@ -12,3 +12,12 @@
 .w-full {
   width: 100%;
 }
+hr {
+
+  border: dotted #EAF6F6 6px;
+
+  border-bottom: none;
+
+  width: 70%;
+
+}
